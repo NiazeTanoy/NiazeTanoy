@@ -31,7 +31,7 @@ Systems Engineer and IT Infrastructure Specialist with 13+ years of experience s
 - Proven ability to operate in regulated, audit-focused, and high-availability organizations
 
 ## Education
-- MEng in Industrial Engineering — Lamar University, TX, USA
+- MEng in Industrial and Systems Engineering — Lamar University, TX, USA
 - MBA (MIS) — American International University of Bangladesh
 - BSc in Computer Science and Engineering — Ahsanullah University of Science and Technology
 
