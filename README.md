@@ -1,6 +1,5 @@
 ## Hi, I’m Hossain Md Niaze Motaher
-
-Systems Engineer and IT Infrastructure Specialist with 13+ years of experience supporting mission-critical enterprise environments across Windows, Linux, and hybrid cloud platforms. Strong background in building, securing, and operating large-scale infrastructure, including data center and server room operations, monitoring and alerting, incident response, and compliance-driven environments.
+Systems Engineer and IT Infrastructure Specialist with 13+ years of experience supporting mission-critical enterprise environments across Windows, Linux, and hybrid cloud platforms. Currently supporting cybersecurity infrastructure and IT/OT network architecture initiatives at the Center for Data Analytics and Cybersecurity (CDAC), Lamar University.
 
 ## Core Expertise
 - Systems and infrastructure engineering across Windows, Linux, on-prem, and hybrid cloud environments
@@ -29,6 +28,13 @@ Systems Engineer and IT Infrastructure Specialist with 13+ years of experience s
 - Senior-level responsibility for servers, networks, virtualization, and security platforms
 - Experience supporting R&D, engineering, and business-critical environments
 - Proven ability to operate in regulated, audit-focused, and high-availability organizations
+
+## Current Work – CDAC (Center for Data Analytics and Cybersecurity), Lamar University
+- Supporting the design and deployment of secure IT/OT network architecture for a cybersecurity research lab
+- Implementing Fortinet infrastructure including FortiGate firewall, FortiSwitch core switching, and FortiProxy secure web gateway
+- Designing VLAN-based network segmentation for servers, OT/PLC testbeds, administration networks, and research environments
+- Assisting with cybersecurity monitoring, logging architecture, and incident analysis environments
+- Working with virtualization environments and enterprise servers to support research infrastructure
 
 ## Education
 - MEng in Industrial and Systems Engineering — Lamar University, TX, USA
