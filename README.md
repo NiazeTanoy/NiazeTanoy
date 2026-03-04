@@ -30,7 +30,7 @@ Systems Engineer and IT Infrastructure Specialist with 13+ years of experience s
 - Proven ability to operate in regulated, audit-focused, and high-availability organizations
 
 ## Current Work – CDAC (Center for Data Analytics and Cybersecurity), Lamar University
-- Supporting the design and deployment of secure IT/OT network architecture for a cybersecurity research lab
+- Designing and deploying secure IT/OT network architecture for a cybersecurity research lab
 - Implementing Fortinet infrastructure including FortiGate firewall, FortiSwitch core switching, and FortiProxy secure web gateway
 - Designing VLAN-based network segmentation for servers, OT/PLC testbeds, administration networks, and research environments
 - Assisting with cybersecurity monitoring, logging architecture, and incident analysis environments
