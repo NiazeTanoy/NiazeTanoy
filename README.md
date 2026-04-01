@@ -1,5 +1,10 @@
 ## Hi, I’m Hossain Md Niaze Motaher
-Systems Engineer and IT Infrastructure Specialist with 13+ years of experience supporting mission-critical enterprise environments across Windows, Linux, and hybrid cloud platforms. Currently supporting cybersecurity infrastructure and IT/OT network architecture initiatives at the Center for Data Analytics and Cybersecurity (CDAC), Lamar University.
+Industrial & Systems Engineer and IT Infrastructure & Security professional with 13+ years of experience supporting mission-critical enterprise environments across Windows, Linux, hybrid infrastructure, and security operations. CompTIA Security+ certified, with experience in network segmentation, monitoring, incident response, audit-ready operations, and IT/OT-oriented cybersecurity initiatives at Lamar University’s Center for Data Analytics and Cybersecurity (CDAC).
+
+## Certifications
+- CompTIA Security+
+- ISO/IEC 27001:2013 Lead Implementer
+- Cisco Networking Academy (Routing, Switching, and Network Fundamentals)
 
 ## Core Expertise
 - Systems and infrastructure engineering across Windows, Linux, on-prem, and hybrid cloud environments
