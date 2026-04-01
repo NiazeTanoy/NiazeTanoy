@@ -1,10 +1,10 @@
 ## Hi, I’m Hossain Md Niaze Motaher
 
-IT Infrastructure & Security Engineer | CompTIA Security+ | Industrial & Systems Engineering | IT/OT & Network Security
+I’m an IT Infrastructure and Security Engineer with over 13 years of experience in enterprise environments, including more than 10 years working at Samsung R&D. During that time, I supported large-scale engineering and production systems, focusing on reliability, security, and operational efficiency.
 
-With 13+ years of experience supporting mission-critical enterprise environments across Windows, Linux, and hybrid infrastructure, I specialize in secure systems, network segmentation, and operational reliability. My background combines hands-on infrastructure engineering with cybersecurity practices and data-driven system optimization.
+I’m CompTIA Security+ certified and have hands-on experience with network segmentation, monitoring, incident response, and audit-ready security operations. My work sits at the intersection of infrastructure, cybersecurity, and system optimization.
 
-Currently contributing to cybersecurity research and IT/OT system design at Lamar University’s Center for Data Analytics and Cybersecurity (CDAC), focusing on secure, scalable, and resilient systems.
+Currently, I’m contributing to cybersecurity research and IT/OT system design at Lamar University’s Center for Data Analytics and Cybersecurity (CDAC), where I’m helping build secure, scalable, and segmented environments for research and industrial simulation.
 
 ---
 
@@ -15,46 +15,46 @@ Currently contributing to cybersecurity research and IT/OT system design at Lama
 
 ---
 
-## Core Expertise
-- Infrastructure & Systems Engineering (Windows, Linux, Hybrid)
-- Network Segmentation & Secure Architecture (IT/OT environments)
-- Monitoring, Alerting & Incident Response
-- Backup, Recovery & High-Availability Operations
-- Security Operations & Access Control
-- Process Optimization & Operational Efficiency
+## What I Work On
+- Infrastructure and systems engineering (Windows, Linux, hybrid environments)
+- Network segmentation and secure architecture (IT/OT environments)
+- Monitoring, alerting, and incident response
+- Backup, recovery, and high-availability operations
+- Security operations and access control
+- Process improvement and operational efficiency
 
 ---
 
 ## IT/OT & Network Security Exposure
-- Experience supporting segmented enterprise and engineering networks aligned with ICS/OT security principles  
-- Familiar with Purdue Model concepts: Enterprise Zone, DMZ, and Operations Zones  
-- Hands-on work with network segmentation, controlled access, and secure system integration  
+- Experience working with segmented enterprise and engineering networks aligned with ICS/OT security concepts  
+- Familiar with Purdue Model concepts such as Enterprise Zone, DMZ, and Operations Zones  
+- Hands-on work with secure connectivity between IT systems and engineering/lab environments  
 - Exposure to monitoring, logging, and incident handling in mixed IT/OT environments  
 
 ---
 
-## Security & Compliance (ISO 27001)
-- Led and supported ISO/IEC 27001 compliance and audit readiness initiatives  
-- Managed asset inventory, access control, and risk treatment processes  
+## Security & Compliance
+- Experience supporting ISO/IEC 27001 audit readiness and compliance initiatives  
+- Worked on asset management, access control, and risk-related activities  
 - Maintained audit-ready documentation and system traceability  
-- Supported log retention, backup validation, and incident evidence collection  
+- Supported logging, backup validation, and incident evidence collection  
 
 ---
 
 ## Professional Background
-- 13+ years of experience in enterprise infrastructure and security operations  
-- Worked extensively in Samsung R&D environments supporting engineering and business-critical systems  
-- Strong experience in high-availability, regulated, and audit-driven environments  
-- Proven ability to work across cross-functional and global teams  
+- 13+ years in infrastructure and security roles  
+- 10+ years at Samsung R&D supporting engineering and enterprise systems  
+- Experience in high-availability, regulated, and audit-focused environments  
+- Strong collaboration across cross-functional and global teams  
 
 ---
 
 ## Current Work – CDAC, Lamar University
 - Designing secure IT/OT cybersecurity testbed environments  
-- Implementing Fortinet stack (FortiGate, FortiSwitch, FortiProxy)  
-- Developing VLAN-based segmentation for research, servers, and OT systems  
+- Working with Fortinet technologies (FortiGate, FortiSwitch, FortiProxy)  
+- Designing VLAN-based segmentation for research, servers, and OT systems  
 - Supporting monitoring, logging, and incident analysis environments  
-- Working with virtualization and enterprise infrastructure for research systems  
+- Working with virtualization and enterprise infrastructure  
 
 ---
 
