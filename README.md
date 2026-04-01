@@ -1,8 +1,10 @@
 ## Hi, I’m Hossain Md Niaze Motaher
 
-Industrial & Systems Engineer and IT Infrastructure & Security professional with 13+ years of experience supporting mission-critical enterprise environments across Windows, Linux, and hybrid infrastructure. CompTIA Security+ certified, with strong experience in network segmentation, monitoring, incident response, and audit-ready security operations.
+IT Infrastructure & Security Engineer | CompTIA Security+ | Industrial & Systems Engineering | IT/OT & Network Security
 
-Currently contributing to cybersecurity research and IT/OT system design at Lamar University’s Center for Data Analytics and Cybersecurity (CDAC), focusing on secure, scalable, and data-driven systems.
+With 13+ years of experience supporting mission-critical enterprise environments across Windows, Linux, and hybrid infrastructure, I specialize in secure systems, network segmentation, and operational reliability. My background combines hands-on infrastructure engineering with cybersecurity practices and data-driven system optimization.
+
+Currently contributing to cybersecurity research and IT/OT system design at Lamar University’s Center for Data Analytics and Cybersecurity (CDAC), focusing on secure, scalable, and resilient systems.
 
 ---
 
