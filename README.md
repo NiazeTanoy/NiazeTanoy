@@ -84,10 +84,11 @@ The design draws directly from 13+ years of enterprise infrastructure experience
 
 ## Compliance Alignment
 
-This design maps to the following frameworks:
+This design maps to the following frameworks and federal guidance:
 
 - **ISO/IEC 27001:2013** — A.13.1 (Network Controls), A.12.4 (Logging), A.9.4 (Access Control)
 - **NIST SP 800-82** — Guide to ICS/OT Security (network segmentation recommendations)
+- **CISA ICS-CERT Guidelines** — IT/OT network segmentation and defense-in-depth recommendations for industrial control system environments
 - **Purdue Model** — Enterprise, DMZ, and Operations zone separation
 - **CIS Controls v8** — Control 12 (Network Infrastructure Management), Control 13 (Network Monitoring)
 
@@ -95,7 +96,7 @@ This design maps to the following frameworks:
 
 ## Key Outcomes
 
-- Designed a segmented IT/OT architecture aligned with NIST, ISO 27001, and Purdue Model principles
+- Designed a segmented IT/OT architecture aligned with NIST, ISO 27001, CISA, and Purdue Model principles
 - Applied firewall-enforced zone isolation to structurally prevent lateral movement between IT and OT
 - Demonstrated audit-ready logging and access control aligned with enterprise compliance requirements
 - Built a foundation extensible to SIEM integration, IDS/IPS deployment, and Zero Trust Network Access (ZTNA)
